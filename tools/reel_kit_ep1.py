@@ -251,7 +251,7 @@ GREEN = radial((8, 12, 10), (20, 90, 50)).convert("RGBA")
 def s_hook(t, T):
     c = DARK.copy()
     a = pop(t / 0.4)
-    paste_c(c, pill(["Озодбек, 14 лет."], F("Black", 76), (255, 255, 255), (0, 0, 0, 0)), W / 2, 760, 0.7 + 0.3 * a, min(1, t / 0.25))
+    paste_c(c, pill(["Озодбек, 13 лет."], F("Black", 76), (255, 255, 255), (0, 0, 0, 0)), W / 2, 760, 0.7 + 0.3 * a, min(1, t / 0.25))
     paste_c(c, pill(["Неделя без плана"], F("Bold", 60), (20, 20, 24), (255, 255, 255, 255)), W / 2, 900, pop((t - 0.6) / 0.35) if t > 0.6 else 0)
     bob = math.sin(t * 6) * 8
     paste_c(c, CHAR["neutral"], W / 2, 1420 + bob, 0.95, ease((t - 0.3) / 0.4))

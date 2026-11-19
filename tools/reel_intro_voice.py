@@ -60,7 +60,7 @@ def s1(t, T):  # Привет! Меня зовут Озодбек, 14
     wave = abs(math.sin(t * 7)) * 25
     paste_c(c, CHAR_WAVE if int(t * 4) % 2 == 0 else CHAR["happy"], W / 2, 1150 - wave * (t < 1.2), 1.05, ease(t / 0.25))
     head_caption(c, "Привет!", t, 330)
-    sub_caption(c, ["Меня зовут Озодбек,", "мне 14 лет"], t, delay=0.9)
+    sub_caption(c, ["Меня зовут Озодбек,", "мне 13 лет"], t, delay=0.9)
     return c
 
 def s2(t, T):  # открыл компанию Exclusive Apps
