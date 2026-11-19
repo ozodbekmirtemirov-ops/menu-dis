@@ -2,7 +2,7 @@
 import math, os, subprocess, sys
 from PIL import Image, ImageDraw
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from make_reel1 import (W, H, FPS, F, ease, pop, pill, paste_c, text_size, radial, vgrad, character,
+from reel_kit_ep1 import (W, H, FPS, F, ease, pop, pill, paste_c, text_size, radial, vgrad, character,
                         CHAR, CHAR_UP_HAPPY, app_icon, render, TMP)
 
 CHAR_WAVE = character("happy", "up")

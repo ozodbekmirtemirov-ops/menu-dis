@@ -142,6 +142,9 @@ def character(mood="neutral", arms="down"):
         d.arc([cx - 40 * s, my - 30 * s, cx + 40 * s, my + 16 * s], 20, 160, fill=(90, 40, 40), width=8 * s)
     return im.resize((cw // SS, ch // SS), Image.LANCZOS)
 
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+from character_v2 import character  # v2: 13 лет, аккуратные кудри (19.11)
 CHAR = {m: character(m) for m in ("neutral", "sad", "shock", "happy", "sleepy")}
 CHAR_UP_HAPPY = character("happy", "up")
 CHAR_PHONE = character("shock", "phone")
