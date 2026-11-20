@@ -80,3 +80,13 @@ if __name__ == "__main__":
     for i, fn in enumerate([s1, s2, s3, s4, s5], 1):
         fn(plan).convert("RGB").save(f"{OUT}/{DATE}_{i}.png")
     print("ok")
+
+def teaser(title, hook, sub, path):
+    """Доп. история-анонс отдельного рилса (не портфолио). teaser('Плов за час', '6 недель или 1 час?', 'Новый рилс уже в ленте', path)"""
+    c = bg((150, 70, 30)); badge(c, 280)
+    txt(c, ["Новый рилс"], 420, 50, (255, 236, 160), "Bold")
+    txt(c, [f"«{title}»"], 510, 80)
+    paste_c(c, pill([hook], F("Bold", 56), (20, 20, 24), (255, 255, 255, 255)), W / 2, 680)
+    paste_c(c, character("shock", "up"), W / 2, 1130, 0.6)
+    paste_c(c, pill([sub], F("Bold", 50), (255, 255, 255), PUR + (255,), pad=(40, 22)), W / 2, 1500)
+    c.convert("RGB").save(path)
