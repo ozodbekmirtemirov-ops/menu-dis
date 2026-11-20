@@ -53,13 +53,13 @@ def s4(plan):  # портфолио
     c = bg((20, 90, 60)); badge(c, 280)
     txt(c, ["Что мы уже сделали"], 420, 72)
     apps = [(app_icon(200), "My Week", "планировщик"), (tile((52, 199, 89), "$"), "My Capital", "учёт капитала"),
-            (tile((255, 159, 10), "5"), "My School", "оценки и школа"), (tile((230, 120, 40), "П"), "Плов Экспресс", "доставка")]
+            (tile((255, 159, 10), "5"), "My School", "оценки и школа")]
     for i, (ic, name, sub) in enumerate(apps):
-        x = 300 if i % 2 == 0 else 780; y = 680 + (i // 2) * 420
+        x = W / 2 if i == 2 else (300 if i == 0 else 780); y = 680 + (i // 2) * 420
         paste_c(c, ic, x, y, 0.95)
         paste_c(c, pill([name], F("Bold", 44), (255, 255, 255), (0, 0, 0, 0)), x, y + 145)
         paste_c(c, pill([sub], F("Medium", 34), (180, 200, 190), (0, 0, 0, 0)), x, y + 200)
-    paste_c(c, character("happy", "wave"), W / 2, 1390, 0.27)
+    paste_c(c, character("happy", "wave"), 860, 1180, 0.3)
     txt(c, ["Следующее — ваше?"], 1560, 56, (255, 236, 160))
     return c
 
