@@ -45,7 +45,19 @@ def napkin():
     paste_c(c, pill(["История Exclusive Apps"], F("Bold", 48), (255, 236, 160), (0, 0, 0, 0)), W / 2, 1640)
     return c
 
+def top3():
+    c = bg((40, 30, 110))
+    big(c, ["ТОП-3"], 380, 150, (255, 236, 160))
+    big(c, ["приложения для бизнеса", "в Ташкенте"], 590, 76)
+    for i, (t, col) in enumerate([("№3 Автомойка", (60, 150, 255)), ("№2 Учебный центр", (52, 199, 89)), ("№1 Спортзал", (230, 60, 90))]):
+        paste_c(c, pill([t], F("Black", 56), (255, 255, 255), col + (255,), pad=(44, 24)), W / 2, 800 + i * 140)
+    paste_c(c, character("happy", "wave"), W / 2, 1420, 0.55)
+    paste_c(c, pill(["Какое нужно вашему?"], F("Bold", 48), (20, 20, 24), (255, 236, 160, 255)), W / 2, 1640)
+    return c
+
 if __name__ == "__main__":
+    if "--top3" in sys.argv:
+        top3().convert("RGB").save(f"{OUT}/2026-11-21_top3_biz_cover.jpg", quality=92); print("ok"); sys.exit()
     os.makedirs(OUT, exist_ok=True)
     for name, fn in [("ep3", ep3), ("quiz_price", quiz), ("napkin_story", napkin)]:
         fn().convert("RGB").save(f"{OUT}/2026-11-22_{name}_cover.jpg", quality=92)
