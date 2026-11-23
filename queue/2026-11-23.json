@@ -1,0 +1,42 @@
+{
+ "date": "2026-11-23",
+ "items": [
+  {
+   "id": "s2",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_2.jpg"
+  },
+  {
+   "id": "s1",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_1.jpg"
+  },
+  {
+   "id": "s3",
+   "time": "16:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_3.jpg"
+  },
+  {
+   "id": "s6",
+   "time": "17:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_6.jpg"
+  },
+  {
+   "id": "s4",
+   "time": "18:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_4.jpg"
+  },
+  {
+   "id": "s5",
+   "time": "21:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_5.jpg"
+  }
+ ],
+ "note": "рилсы r1/r2/r3 и видео-тизер добавляются утром после сборки"
+}
