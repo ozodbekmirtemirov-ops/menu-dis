@@ -14,6 +14,26 @@
    "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_1.jpg"
   },
   {
+   "id": "r1",
+   "time": "12:40",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_ep4.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_ep4_cover.jpg",
+   "caption": "Вызвали к директору в 8 утра. Мне 13 😳\n\nСерия 4. Разгадка: директор увидел My School и хочет его для всех школ Юнусабада. Но в приёмной уже сидел другой парень с ноутбуком — тоже с приложением для школ. Кто он?\n\nСерия 5 — завтра в 12:40. Подпишись, чтобы не пропустить: нас 38, цель — 1000.\n\nСвоё приложение? Пришлите ТЗ — сделаем.\n📞 +998 90 970 06 03\n\n#myweek #сериал #exclusiveapps #ташкент #школа",
+   "first_comment": "Кто этот парень в приёмной? Пишите версии 👇 Самую близкую покажем в серии 5",
+   "trial": false
+  },
+  {
+   "id": "r2",
+   "time": "16:10",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_capital_show.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_capital_show_cover.jpg",
+   "caption": "Сколько у тебя денег? Не на карте — вообще всего 💰\n\nMy Capital собирает весь капитал в одном месте: квартира, машина, бизнес, наличные, золото. Диаграмма показывает, что растёт, а что падает, а ИИ-советчик подсказывает, когда пора продать.\n\nОтправь другу, у которого всегда «денег нет» 😄\n\nХотите своё приложение? Пришлите ТЗ — сделаем.\n📞 +998 90 970 06 03\nПодпишись — ты будешь 39-м, цель 1000.\n\n#mycapital #финансы #деньги #exclusiveapps #ташкент",
+   "first_comment": "А ты знаешь, сколько у тебя всего? Да / Примерно / Лучше не знать 😅",
+   "trial": true
+  },
+  {
    "id": "s3",
    "time": "16:10",
    "kind": "story",
@@ -24,6 +44,22 @@
    "time": "17:10",
    "kind": "story",
    "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_6.jpg"
+  },
+  {
+   "id": "s5v",
+   "time": "17:10",
+   "kind": "story",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_teaser_ep5.mp4"
+  },
+  {
+   "id": "r3",
+   "time": "18:10",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_call_38.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-23_call_38_cover.jpg",
+   "caption": "Нас 38. Нужно 1000 за 39 дней 📞\n\nЭто 25 человек в день. Ноутбук-помощник нашёл простой способ: каждый, кто видит этот рилс, отправляет его одному другу.\n\nПодпишись и отправь другу — ты будешь 39-м 🫶\nНужно своё приложение? Пишите «ТЗ» в директ.\n📞 +998 90 970 06 03\n\n#exclusiveapps #ташкент #1000подписчиков #стартап #приложение",
+   "first_comment": "Кому ты отправишь этот рилс? Отметь друга 👇",
+   "trial": false
   },
   {
    "id": "s4",
@@ -37,6 +73,5 @@
    "kind": "story",
    "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-23_5.jpg"
   }
- ],
- "note": "рилсы r1/r2/r3 и видео-тизер добавляются утром после сборки"
+ ]
 }
