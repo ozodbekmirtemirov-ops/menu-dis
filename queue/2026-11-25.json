@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-25",
+ "items": [
+  {
+   "id": "s2",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_2.jpg"
+  },
+  {
+   "id": "s1",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_1.jpg"
+  },
+  {
+   "id": "r1",
+   "time": "12:40",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-25_ep6.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-25_ep6_cover.jpg",
+   "caption": "Он скопировал мой код. Но не это 😳\nU mening kodimni ko‘chirdi. Lekin buni emas 😳\n\nСерия 6. Соперник скопировал My School до последней строчки. А ТЗ — нет: он не знает, зачем там игра и QR-код. Учитель включает игру, класс сканирует QR — и даже двоечник старается, а результаты видят завуч и директор. Завтра педсовет. Но ночью в My Week появилась задача «Не бойся»… и её поставил не ноутбук.\nO‘yin, QR va TZ — raqib buni ko‘chira olmadi.\n\nСерия 7 — завтра в 12:40.\n\nСвоё приложение? Пришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#myweek #сериал #maktab #toshkent #exclusiveapps",
+   "first_comment": "Кто, по-вашему, написал «Не бойся»? Пишите версии 👇",
+   "trial": false
+  },
+  {
+   "id": "s3",
+   "time": "16:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_3.jpg"
+  },
+  {
+   "id": "s6v",
+   "time": "17:10",
+   "kind": "story",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_teaser_ep7.mp4"
+  },
+  {
+   "id": "s4",
+   "time": "18:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_4.jpg"
+  },
+  {
+   "id": "r2",
+   "time": "20:10",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-25_school_game.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-25_school_game_cover.jpg",
+   "caption": "Двоечник впервые поднял руку. Вот почему 😳\nIkkichi birinchi marta qo‘l ko‘tardi. Mana nega 😳\n\nMy School — игра для урока. Учитель запускает игру, класс сканирует QR-код, и урок становится соревнованием: стараются все, даже задние парты. Результаты класса видят завуч и директор в своей админке.\nDars o‘yinga aylanadi: sinf QR-kodni skanerlaydi va hamma harakat qiladi.\n\nОтправь учителю, у которого скучные уроки 👇\n\nПришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#maktab #toshkent #ilova #школа #учитель",
+   "first_comment": "Какой предмет вы бы превратили в игру первым? 👇",
+   "trial": false
+  },
+  {
+   "id": "s6",
+   "time": "20:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_6.jpg"
+  },
+  {
+   "id": "s5",
+   "time": "21:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-25_5.jpg"
+  }
+ ]
+}
