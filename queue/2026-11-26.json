@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-26",
+ "items": [
+  {
+   "id": "s2",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_2.jpg"
+  },
+  {
+   "id": "s1",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_1.jpg"
+  },
+  {
+   "id": "r1",
+   "time": "12:40",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-26_ep7.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-26_ep7_cover.jpg",
+   "caption": "Директор задал один вопрос — и он молчит 😳\nDirektor bitta savol berdi — u esa jim 😳\n\nСерия 7. Пятница, педсовет. Вопрос директора: «Учителя химии хотят свою игру — сколько это займёт?» Соперник молчит. Озодбек: «Один вечер: учитель пишет вопросы, класс сканирует тот же QR-код». Решение директора — вечером. А после педсовета соперник признался: «Я не крал твой код. Мне его прислали»…\nRaqib: «Kodingni o‘g‘irlamadim. Uni menga yuborishdi».\n\nСерия 8 — завтра в 12:40.\n\nСвоё приложение? Пришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#myweek #сериал #maktab #toshkent #exclusiveapps",
+   "first_comment": "Кто, по-вашему, прислал ему код? Пишите версии 👇",
+   "trial": false
+  },
+  {
+   "id": "s3",
+   "time": "16:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_3.jpg"
+  },
+  {
+   "id": "s6v",
+   "time": "17:10",
+   "kind": "story",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_teaser_ep8.mp4"
+  },
+  {
+   "id": "s4",
+   "time": "18:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_4.jpg"
+  },
+  {
+   "id": "r2",
+   "time": "20:10",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-26_forgot_hw.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-26_forgot_hw_cover.jpg",
+   "caption": "22:00. Мама: «Домашку сделал?» 😳\nSoat 22:00. Onam: «Uy vazifasini qildingmi?» 😳\n\nДомашка, кружок, подарок другу — всё в голове, и всё забыто. В My Week дела разложены по дням, а в 17:00 приходит напоминание. И в 22:00 у тебя уже всё с галочкой.\nMy Week — vazifalar kunlar bo‘yicha, soat 17:00 da eslatma.\n\nОтправь другу, который вечно всё забывает 👇\n\nПришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#maktab #toshkent #myweek #школа #ilova",
+   "first_comment": "Что вы забываете чаще всего: домашку, ключи или день рождения друга? 👇",
+   "trial": false
+  },
+  {
+   "id": "s6",
+   "time": "20:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_6.jpg"
+  },
+  {
+   "id": "s5",
+   "time": "21:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-26_5.jpg"
+  }
+ ]
+}
