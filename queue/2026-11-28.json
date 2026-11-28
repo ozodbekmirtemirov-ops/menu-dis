@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-28",
+ "items": [
+  {
+   "id": "s2",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_2.jpg"
+  },
+  {
+   "id": "s1",
+   "time": "09:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_1.jpg"
+  },
+  {
+   "id": "r1",
+   "time": "12:40",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-28_ep9.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-28_ep9_cover.jpg",
+   "caption": "Это был ТЫ?! Кто ставил мне задачи всю неделю 😳\nBu SEN edingmi?! Butun hafta menga vazifa qo‘ygan kim 😳\n\nСерия 9. Суббота, 10:00 — звонок в дверь. Задачи «Не бойся» и «Узнаешь, кто я» всю неделю ставил друг — тот самый, что в понедельник скинул мне My Week. Он просто болел за меня. А ещё принёс конверт: «ТЗ. Открыть в воскресенье»…\nDo‘stim butun hafta men uchun qayg‘urgan. Konvertda nima bor?\n\nФинал — завтра в 12:40.\n\nПришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#myweek #сериал #maktab #toshkent #exclusiveapps",
+   "first_comment": "Как думаете, что в конверте «ТЗ»? Пишите версии — завтра узнаем 👇",
+   "trial": false
+  },
+  {
+   "id": "s3",
+   "time": "16:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_3.jpg"
+  },
+  {
+   "id": "s6v",
+   "time": "17:10",
+   "kind": "story",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_teaser_ep10.mp4"
+  },
+  {
+   "id": "s4",
+   "time": "18:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_4.jpg"
+  },
+  {
+   "id": "r2",
+   "time": "20:10",
+   "kind": "reel",
+   "video_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-28_school_bell.mp4",
+   "cover_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/reels/2026-11-28_school_bell_cover.jpg",
+   "caption": "Звонок прозвенел — а класс не уходит?! 😳\nQo‘ng‘iroq chalindi — sinf esa ketmayapti?! 😳\n\nДо: алгебра, полкласса спит. После: учитель запускает My School, класс сканирует QR-код — и урок превращается в игру. Вопросы на время, рейтинг класса, стараются все. Итоги видят завуч и директор в своей админке.\nMy School — dars o‘yinga aylanadi, hamma harakat qiladi.\n\nПерешли в чат класса — пусть учитель увидит 👇\n\nПришлите ТЗ — сделаем.\nIlova kerakmi? TZ yuboring — qilib beramiz.\n📞 +998 90 970 06 03\n\n#maktab #toshkent #школа #учитель #ilova",
+   "first_comment": "А у вас был урок, с которого не хотелось уходить? Какой предмет? 👇",
+   "trial": false
+  },
+  {
+   "id": "s6",
+   "time": "20:10",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_6.jpg"
+  },
+  {
+   "id": "s5",
+   "time": "21:30",
+   "kind": "story",
+   "image_url": "https://raw.githubusercontent.com/ozodbekmirtemirov-ops/menu-dis/media/stories/2026-11-28_5.jpg"
+  }
+ ]
+}
